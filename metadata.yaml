@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9738
     wikipedia: http://en.wikipedia.org/wiki/John_William_Burgon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36722#The-Revision-Revised
 gutenberg_issued: '2011-07-13'
 gutenberg_type: Text
 identifiers:
